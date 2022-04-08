@@ -1,4 +1,6 @@
 SMART LINEAR ACTUATOR
 
 Team:
-A00823833 Dafne Durón 
+
+Dafne Durón 
+Manuel Aguilar
